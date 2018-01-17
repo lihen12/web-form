@@ -1,0 +1,26 @@
+form {
+  width: 50%;
+  margin: auto;
+  border: solid 2px gray;
+  padding: 0.5%;
+}
+
+form h2 {
+  padding: 0px;
+  margin: 1% 1% 2% 1%;
+  text-align: center;
+}
+
+input[type=text], input[type=email] {
+  width: 20%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+  
+fieldset {
+  margin: 1%;
+}
+  
